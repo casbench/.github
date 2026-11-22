@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-labelledby="title">
+<title id="title">CASbench organization mark</title>
+<rect width="512" height="512" fill="#1E2329"/>
+<g transform="translate(104 104)">
+<rect x="0" y="0" width="304" height="304" rx="18.24" fill="none" stroke="#8A949E" stroke-opacity=".7" stroke-width="7.60"/>
+<circle cx="50.67" cy="50.67" r="28.37" fill="#2E9E5B"/>
+<circle cx="152.00" cy="50.67" r="28.37" fill="#2E9E5B"/>
+<circle cx="253.33" cy="50.67" r="28.37" fill="none" stroke="#F2B705" stroke-width="10.13"/>
+<circle cx="50.67" cy="152.00" r="28.37" fill="#2E9E5B"/>
+<circle cx="253.33" cy="152.00" r="28.37" fill="#2E9E5B"/>
+<circle cx="50.67" cy="253.33" r="28.37" fill="none" stroke="#F2B705" stroke-width="10.13"/>
+<circle cx="152.00" cy="253.33" r="28.37" fill="#2E9E5B"/>
+<circle cx="253.33" cy="253.33" r="28.37" fill="#2E9E5B"/>
+</g>
+</svg>
